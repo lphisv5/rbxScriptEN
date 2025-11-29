@@ -1,43 +1,30 @@
 local Games = {
-    -- +1 Blocks Every Second
-    [12003400278] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/+1BlocksEverySecond.lua",
+    [12003400278] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/+1BlocksEverySecond.lua",
 
-    -- Fish It
-    [121864768012064] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/Fishit.lua",
+    [121864768012064] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Fishit.lua",
 
-    -- Build A Boat For Treasure
-    [537413528] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/BuildABoat.lua",
+    [537413528] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/BuildABoat.lua",
 
-    -- +1 Size Race
-    [86098086356851] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/+1SizeRace.lua",
+    [86098086356851] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/+1SizeRace.lua",
 
-    -- Blox Fruits
-    [2753915549] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/Aimbot-bloxfruits.lua",
-    [4442272183] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/Aimbot-bloxfruits.lua",
+    [2753915549] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Aimbot-bloxfruits.lua",
+    [4442272183] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Aimbot-bloxfruits.lua",
 
-    -- Violence District
-    [93978595733734] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/Violence-District.lua",
+    [93978595733734] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Violence-District.lua",
 
-    -- Driving Empire
-    [3351674303] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/driving-empire.lua",
+    [3351674303] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/driving-empire.lua",
 
-    -- Don’t Get Crushed
-    [94478161920361] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/Dont-Get-Crushed.lua",
+    [94478161920361] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Dont-Get-Crushed.lua",
 
-    -- Dig to Earth’s Core
-    [81440632616906] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/DigtoEarths.lua",
+    [81440632616906] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/DigtoEarths.lua",
 
-    -- Cut Trees
-    [135880624242201] = "https://github.com/lphisv5/rbxScriptEN/raw/refs/heads/main/CutTrees.lua",
+    [135880624242201] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/CutTrees.lua",
     
-    -- Math Murder
-    [127707120843339] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/MathMurder.lua",
+    [127707120843339] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/MathMurder.lua",
     
-    -- Rivals
-    [17625359962] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/Rivals.lua",
-    [117398147513099] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/Rivals.lua",
-    [6035872082] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/refs/heads/main/Rivals.lua",
-
+    [17625359962] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
+    [117398147513099] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
+    [6035872082] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
 }
 
 local placeId = game.PlaceId
