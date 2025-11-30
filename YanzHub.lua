@@ -9,11 +9,10 @@ local Games = {
     [3351674303] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/driving-empire.lua",
     [9447816192] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Dont-Get-Crushed.lua",
     [8144063261] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/DigtoEarths.lua",
-    [7468338447] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/DigtoEarths.lua",
+    [8144063261906] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/DigtoEarth.lua",
     [1358806242] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/CutTrees.lua",
-    [1277071208] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/MathMurder.lua",
+    [127707120843339] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/MathMurder.lua",
     [18126510175] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
-    [8144063261906]  = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
 }
 
 local placeId = game.PlaceId
