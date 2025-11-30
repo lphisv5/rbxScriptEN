@@ -13,7 +13,7 @@ local Games = {
     [1358806242] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/CutTrees.lua",
     [1277071208] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/MathMurder.lua",
     [18126510175] = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
-    [6035872082]  = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
+    [8144063261906]  = "https://raw.githubusercontent.com/lphisv5/rbxScriptEN/main/Rivals.lua",
 }
 
 local placeId = game.PlaceId
