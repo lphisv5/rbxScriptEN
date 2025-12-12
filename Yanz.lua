@@ -17,7 +17,7 @@ local Games = {
 local url = Games[game.PlaceId]
 
 if url then
-    loadstring(game:HttpGet(url, true))()
+    loadstring(game:HttpGet(url))()
 else
     print("No script for this game - PlaceId:", game.PlaceId)
 end
