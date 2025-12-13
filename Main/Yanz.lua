@@ -131,5 +131,5 @@ if currentGame then
         gui:Destroy()
     end
 else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/lphisv5/rbxScript/main/DeltaLoaderUI.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lphisv5/rbxScript/main/LoaderUI.lua"))()
 end
