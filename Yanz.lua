@@ -64,6 +64,11 @@ local Games = {
         Url = "https://raw.githubusercontent.com/lphisv5/rbxScript/main/Rivals.lua",
         Icon = "⚡"
     },
+    [92122513197996] = {
+        Name = "Dig to Escape"
+        Url = "https://raw.githubusercontent.com/lphisv5/rbxScript/main/DigtoEscape.lua",
+        Icon = "🚨"
+    },
 }
 
 local currentGame = Games[game.PlaceId]
